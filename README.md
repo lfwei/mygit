@@ -1,2 +1,3 @@
 # mygit
 * pull
+* push
